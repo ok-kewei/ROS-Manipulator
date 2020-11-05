@@ -1,0 +1,8 @@
+prefix=/home/user/catkin_ws/devel
+
+Name: rbkairos_moveit_configr
+Description: Description of rbkairos_moveit_configr
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
